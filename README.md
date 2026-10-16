@@ -37,3 +37,8 @@ Run on Windows PowerShell:
 
 ## Language
 C
+
+
+## Output
+
+![Ring Buffer Program Output](ringbuf_output.png)
